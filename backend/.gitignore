@@ -1,0 +1,12 @@
+# backend/.gitignore
+# Always ignore environment files in backend
+.env
+.env.*
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+*.sqlite
+.ipynb_checkpoints/

@@ -1,0 +1,35 @@
+# --- OS / editor ---
+.DS_Store
+*.log
+.vscode/
+.idea/
+
+# --- Python backend ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+*.sqlite
+conda-env/
+.ipynb_checkpoints/
+
+# Ignore .env files anywhere (root or subfolders)
+.env
+.env.*
+**/.env
+**/.env.*
+
+# --- Node frontend ---
+frontend/node_modules/
+frontend/.vite/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+
+# Optional common extras (safe to add)
+.mypy_cache/
+.pytest_cache/
+.coverage
+coverage/
