@@ -11,7 +11,9 @@ An adaptive teaching assistant that:
 - Two LLM roles: **generator** (creates questions) & **judge** (scores answers)
 
 ## Architecture
-![UI screenshot](docs/architecture.png)
+<p align="center">
+  <img src="docs/architecture.png" alt="Teaching Assistant — Question View" width="50%">
+</p>
 
 ---
 
