@@ -12,7 +12,7 @@ An adaptive teaching assistant that:
 
 ## Architecture
 <p align="center">
-  <img src="docs/architecture.png" alt="Teaching Assistant — Question View" width="50%">
+  <img src="docs/architecture.png" alt="Teaching Assistant — Question View" width="20%">
 </p>
 
 ---
